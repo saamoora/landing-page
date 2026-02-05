@@ -1,3 +1,5 @@
 Esse é um projeto feito para treinar o que estou estudando. 
 
-Por enquanto é para versão desktop (apenas), ainda não fiz uma versão responsiva. Chegará em breve :3
+Usei algumas inspirações de um vídeo no youtube do canal <a href="https://www.youtube.com/@AlexandreSaints">Alexandre Saints</a>
+
+Por enquanto é para versão desktop (apenas), ainda não fiz uma versão responsiva; Pretendo me aprofundar mais. Chegará em breve :3
